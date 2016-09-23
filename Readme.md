@@ -115,4 +115,20 @@ If you’d like to give me credit somewhere on your blog or tweet a shout out to
 
 
 
+Cheatsheet
+https://jekyllrb.com/docs/posts/
+https://jekyllrb.com/docs/templates/
 
+inserting image
+![Basic CI Workflow]({{ site.url }}/assets/img/CI_diagram.png)
+
+header
+inserting code. list of types available at: http://rouge.jneen.net/
+{% highlight XML/shell/Java/JavaScript %}
+code
+{% endhighlight %}
+
+inserting blockquote
+> this stuff will be blockquoted. end with an emptyline
+
+this stuff will not be blockquoted
