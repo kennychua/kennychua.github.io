@@ -11,6 +11,8 @@ twitter_text:
 
 The typical workflow of a Continous Integration/Continuous Deployment process is fairly well understood. As a quick recap, code is checked out regularly, then built, and following that a whole suite of tests are run to confirm that the code changes did in fact fulfill its purpose and did not unintentially cause other parts of the app to misbehave.
 
+![Basic CI Workflow]({{ site.url }}/assets/img/CI_diagram.png)
+
 In web applications, it is becoming increasingly popular (as it should be) to have the application deployed to a container (eg, using Cargo) so that automated UI tests can be run via Selenium or Watir or QTP or what have you.
 
 
@@ -45,5 +47,7 @@ Include the following in your Maven pom.xml configuration. See http://code.googl
 
 
 In this example, it will poll www.google.com for the HTTP status code 200 (OK). If it does not receive the expected response, it will wait for 10 seconds and then try again up to 5 times in total.
+
+![Maven execution screenshot]({{ site.url }}/assets/img/maven-urlpoller-plugin.png)
 
 As a handy tip, when several plugins are configured to the same phase in a maven lifecycle, they are executed in the order in which they are declared in the pom.xml. This is true in Maven 3.0.3 and later.
