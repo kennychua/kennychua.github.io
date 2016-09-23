@@ -5,14 +5,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kennychua.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: Kenny Chua
+user_description: I solve difficult problems.. people, process & technology
+user_title: Polyglot Problem Solver
+email: mail@kennychua.net
+twitter_username: spazkus
+github_username:  kennychua
 
 # Build settings
 markdown: kramdown
