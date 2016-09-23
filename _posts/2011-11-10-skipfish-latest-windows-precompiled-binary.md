@@ -35,3 +35,4 @@ How to Compile Skipfish On Cygwin
     2. make install
 6. Voila, you have your executable
 
+And here's one I prepared earlier! [Skipfish V2.03 Windows Pre-Compiled Binary]({{ site.url }}/assets/others/skipfish-2.03b.zip)
