@@ -37,7 +37,7 @@ JSDEMO.quickstart = function () {
         }
     };
 } ();
-{% highlight JavaScript %}
+{% endhighlight %}
 
 Here is the code to test it! Pretty simple really.. comments inline
 
@@ -58,4 +58,5 @@ test("Can append child to element in DOM", function() {
     // Helper function to tear down DOM element tested with
     DOMTearDown('#testDiv');
 });
-{% highlight JavaScript %}
+{% endhighlight %}
+
