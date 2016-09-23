@@ -49,8 +49,8 @@ Next, place your JavaScript/QUnit test files (hereafter referred to as JavaScrip
 
 This plugin works by convention. Given a JavaScript test file called FooTest.js, the plugin will run PhantomJs, load up QUnit, load up Foo.js, then run the defined tests. The results are then handled accordingly.
 
-![Folder Structure]({{ site.url }}/assets/img/js_mvn_foobarjs.png)
-![Folder Structure]({{ site.url }}/assets/img/js_mvn_fooBarTest.png)
+![Source]({{ site.url }}/assets/img/js_mvn_foobarjs.png)
+![Test]({{ site.url }}/assets/img/js_mvn_fooBarTest.png)
 
 Finally, let’s see the magic happen! The plugin is tied to the Maven test lifecycle.
 
@@ -60,7 +60,7 @@ mvn test
 
 produces the following result
 
-![Folder Structure]({{ site.url }}/assets/img/Screenshot-at-2011-12-04-221954.png)
+![Result]({{ site.url }}/assets/img/Screenshot-at-2011-12-04-221954.png)
 
 Success! .. well.. it’s a build failure, but that is the point as I deliberately had a test failure
 
@@ -74,4 +74,4 @@ Another nice feature is that it generates the HTML QUnit wrappers you would norm
 
 Next step : Make the test output JUnit xml compliant (currently untested), make the option to load up other JavaScript files (eg containing helper functions definitions used in your JavaScript) before running the tests.
 
-Update: How to test JavaScript DOM updates with this plugin!
+[Update: How to test JavaScript DOM updates with this plugin!](https://kennychua.github.io/testing-the-javascript-dom-updates-with-qunit-and-phantomjs-in-an-automated-maven-build/)
