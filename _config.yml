@@ -1,6 +1,6 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Kenny Chua - Polyglot Problem Solver
+description: Kenny Chua - Polyglot Problem Solver
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kennychua.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
