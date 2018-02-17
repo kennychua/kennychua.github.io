@@ -1,0 +1,3 @@
+[build]
+  command = "gulp js stylus jekyll-build"
+  publish = "_site"
