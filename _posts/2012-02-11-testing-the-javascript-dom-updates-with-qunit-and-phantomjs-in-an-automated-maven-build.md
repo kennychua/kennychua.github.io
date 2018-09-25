@@ -1,13 +1,13 @@
 ---
+title: Testing the JavaScript DOM updates with QUnit and PhantomJS in an automated
+  Maven build
+date: 2012-02-11 13:46:02 Z
 layout: post
-title: "Testing the JavaScript DOM updates with QUnit and PhantomJS in an automated Maven build"
-date: 2012-02-11 13:46:02
-image: '/assets/img/'
-description:
-tags:
-categories:
-twitter_text:
+image: "/assets/img/"
+description: 
+twitter_text: 
 ---
+
 Greetings all,
 
 Now that we’ve been though the details of how to [set up a simple assertion test with QUnit and PhantomJs in a Maven Continuous Integration build in part 1](https://kennychua.github.io/running-qunit-javascript-tests-in-a-maven-continuous-integration-build-with-phantomjs/), let’s take a closer look at all the assertions that are available in a test.

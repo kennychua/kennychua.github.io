@@ -1,12 +1,10 @@
 ---
+title: Getting More Out Of Your JUnit Tests
+date: 2011-10-30 13:16:39 Z
 layout: post
-title: "Getting More Out Of Your JUnit Tests"
-date: 2011-10-30 13:16:39
-image: '/assets/img/'
-description:
-tags:
-categories:
-twitter_text:
+image: "/assets/img/"
+description: 
+twitter_text: 
 ---
 
 Another great presentation on how to maximise the value out of your JUnit tests from John Smart of Wakaleo Consulting.
