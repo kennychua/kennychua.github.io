@@ -1,11 +1,12 @@
 ---
-title: Polling for Deployment Completion of a Webapp in a Continuous Integration Environment
-  with a Maven Plugin
-date: 2011-12-30 13:45:08 Z
 layout: post
-image: "/assets/img/"
-description: 
-twitter_text: 
+title: "Polling for Deployment Completion of a Webapp in a Continuous Integration Environment with a Maven Plugin"
+date: 2011-12-30 13:45:08
+image: '/assets/img/'
+description:
+tags:
+categories:
+twitter_text:
 ---
 
 The typical workflow of a Continous Integration/Continuous Deployment process is fairly well understood. As a quick recap, code is checked out regularly, then built, and following that a whole suite of tests are run to confirm that the code changes did in fact fulfill its purpose and did not unintentially cause other parts of the app to misbehave.

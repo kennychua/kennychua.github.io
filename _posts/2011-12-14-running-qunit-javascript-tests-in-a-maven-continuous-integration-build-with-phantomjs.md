@@ -1,13 +1,13 @@
 ---
-title: Running QUnit JavaScript tests in a Maven Continuous Integration Build with
-  PhantomJs
-date: 2011-12-14 13:44:14 Z
 layout: post
-image: "/assets/img/"
-description: 
-twitter_text: 
+title: "Running QUnit JavaScript tests in a Maven Continuous Integration Build with PhantomJs"
+date: 2011-12-14 13:44:14
+image: '/assets/img/'
+description:
+tags:
+categories:
+twitter_text:
 ---
-
 Problem :
 -----------
 QUnit tests are great, but they only run in my browser locally. I want to be able to run these tests locally while developing yet still be able to hand those tests off for automated testing by Maven when my build is run..

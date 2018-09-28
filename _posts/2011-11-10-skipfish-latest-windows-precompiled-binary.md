@@ -1,10 +1,12 @@
 ---
-title: Skipfish Latest Windows Precompiled Binary
-date: 2011-11-10 13:43:44 Z
 layout: post
-image: "/assets/img/"
-description: 
-twitter_text: 
+title: "Skipfish Latest Windows Precompiled Binary"
+date: 2011-11-10 13:43:44
+image: '/assets/img/'
+description:
+tags:
+categories:
+twitter_text:
 ---
 
 Skipfish is a great and FAST automated pen test tool with a low barrier to entry by Google's own web security expert Michal Zalewski.

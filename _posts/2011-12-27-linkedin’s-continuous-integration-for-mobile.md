@@ -1,10 +1,12 @@
 ---
-title: LinkedIn’s Continuous Integration for Mobile
-date: 2011-12-27 13:44:48 Z
 layout: post
-image: "/assets/img/"
-description: 
-twitter_text: 
+title: "LinkedIn’s Continuous Integration for Mobile"
+date: 2011-12-27 13:44:48
+image: '/assets/img/'
+description:
+tags:
+categories:
+twitter_text:
 ---
 
 LinkedIn has an [interesting approach to Continuous Integration](http://engineering.linkedin.com/testing/continuous-integration-mobile) in their mobile app. Of special interest are the ‘Fixture tests’ which mock HTTP/AJAX requests, and the ‘Layout tests’ which does a visual comparison against baseline! Would be very interesting to try and integrate the Layout tests into my automated builds..
