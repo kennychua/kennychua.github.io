@@ -1,12 +1,10 @@
 ---
+title: LinkedIn Mobile Automated Testing Approach
+date: 2011-10-30 13:43:21 Z
 layout: post
-title: "LinkedIn Mobile Automated Testing Approach"
-date: 2011-10-30 13:43:21
-image: '/assets/img/'
-description:
-tags:
-categories:
-twitter_text:
+image: "/assets/img/"
+description: 
+twitter_text: 
 ---
 
 A few short months ago, LinkedIn unveiled their latest mobile app which in my opinion is an unparalleled execution of a fantastic hybrid app. I truly believe the hybrid app is the way of the future for mobile development where HTML5+JavaScript is deployed for maximum flexibility & quick turnarounds, but wrapped within native app capabilities (eg infinite scrolling lists for the iPhone). You can read more about it <a href="http://venturebeat.com/2011/08/16/linkedin-node/">here</a>.
