@@ -1,10 +1,12 @@
 ---
-title: Large-scale JavaScript Application Architecture
-date: 2012-01-01 13:45:19 Z
 layout: post
-image: "/assets/img/"
-description: 
-twitter_text: 
+title: "Large-scale JavaScript Application Architecture"
+date: 2012-01-01 13:45:19
+image: '/assets/img/'
+description:
+tags:
+categories:
+twitter_text:
 ---
 
 Renowned JavaScript Guru Addy Osmani has a great presentation on how to handle JavaScript on large projects (defined as >100K LOC)
