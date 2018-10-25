@@ -53,6 +53,7 @@ also need storage, so decide to spin up a cheap Virtual Private Server - looked 
 
 #### Challenge 4 : try async/await syntax
 aws lambda don't support yet unless via babel transpilation
+some inline `code`
 
 
 :wq
