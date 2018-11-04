@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Experiments : Creating my Kenny Token Cryptocurrency"
+title: "Experiments: Creating my Kenny Token Cryptocurrency"
 date: 2018-10-05 00:15:09
 image: '/assets/img/'
 description:
@@ -9,7 +9,7 @@ categories:
 twitter_text:
 ---
 
-*Welcome to a series of posts where I document my thoughts and experiments as an avid tinkerer, learner and explorer in Technology*
+*Welcome to a series of posts where I document my thoughts and experiments as an avid tinkerer, learner, and explorer in Technology*
 
 ## Experiments : Creating my own Kenny Token Cryptocurrency
 

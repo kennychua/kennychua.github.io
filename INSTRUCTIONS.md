@@ -57,3 +57,12 @@ inserting blockquote
 > this stuff will be blockquoted. end with an emptyline
 
 this stuff will not be blockquoted
+
+
+# Cross post to medium
+- https://github.com/jondot/mediumize
+```
+$ gem install mediumize
+$ mediumize -t your-medium-integration-token file1.md file2.md ... fileN.md
+
+```
