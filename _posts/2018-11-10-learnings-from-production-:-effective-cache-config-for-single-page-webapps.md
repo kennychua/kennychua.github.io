@@ -7,6 +7,7 @@ description:
 tags:
 categories:
 twitter_text:
+share: linkedin twitter
 ---
 
 # Learnings from Production - Effective Cache Config for Single Page Webapps
