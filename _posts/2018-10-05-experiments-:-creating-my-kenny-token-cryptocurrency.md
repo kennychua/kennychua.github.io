@@ -7,6 +7,7 @@ description:
 tags:
 categories:
 twitter_text:
+share: linkedin twitter
 ---
 
 *Welcome to a series of posts where I document my thoughts and experiments as an avid tinkerer, learner, and explorer in Technology*
