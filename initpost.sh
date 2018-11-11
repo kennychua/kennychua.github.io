@@ -138,6 +138,7 @@ echo "description:"
 echo "tags:"
 echo "categories:"
 echo "twitter_text:"
+echo "share: linkedin twitter"
 echo "---"
 
 }
