@@ -66,3 +66,9 @@ $ gem install mediumize
 $ mediumize -t your-medium-integration-token file1.md file2.md ... fileN.md
 
 ```
+
+# Cross post to Linkedin and twitter
+- Populate the front matter of each blog post with `share: linkedin twitter`
+- An RSS feed will be populated at `https://kennychua.net/twitter_crosspost_rss.xml` or `https://kennychua.net/linkedin_crosspost_rss.xml` with each post
+- IFTTT trigger should read this RSS feed and post to twitter and/or linkedin
+
