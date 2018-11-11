@@ -84,6 +84,6 @@ After a number of refresh loops, most browsers should detect the fault and preve
 
 
 
-*Note : Views are my own and do not represent the views or state of my employer*
+*Note : Opinions are my own and do not represent the views or state of my employer*
 
 
