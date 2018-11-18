@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learnings from Production : Effective Cache Config for Single Page Webapps"
+title: "Lessons from Production : Effective Cache Config for Single Page Webapps"
 date: 2018-11-10 22:55:45
 image: '/assets/img/'
 description:
@@ -10,7 +10,7 @@ twitter_text:
 share: linkedin twitter
 ---
 
-# Learnings from Production - Effective Cache Config for Single Page Webapps
+# Lessons from Production - Effective Cache Config for Single Page Webapps
 
 
 
