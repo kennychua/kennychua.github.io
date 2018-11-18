@@ -26,7 +26,7 @@ Aside from being listed on international cryptocurrency exchanges, a listing on 
 The screenshot above illustrates the price jump in the LISK coin when it was announced that it had been listed on the South Korean Bithumb Exchange.
 
 ## Experiment time!
-***What if... *** I made a bot that polls the top cryptocurrency exchanges for new coins and posts on Twitter whenever it detects a new cryptocurrency being listed on an exchange?
+***What if...*** I made a bot that polls the top cryptocurrency exchanges for new coins and posts on Twitter whenever it detects a new cryptocurrency being listed on an exchange?
 
 As it turns out, the idea was very achievable! The bot has found and posted about a **whopping 1000+ new coins**, and has an audience of **800+ followers** so far!
 
